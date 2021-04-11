@@ -11,7 +11,7 @@ It contains the official implementation of the paper [Attention Back-end for Aut
 
 ## data
 
-You can download the data from this [link](Link:https://dubox.com/s/1m8n3h7zP4lr1UA64aFYPfQ)
+You can download the data from this [link](https://dubox.com/s/1m8n3h7zP4lr1UA64aFYPfQ)
 
  Password: e2de.
 

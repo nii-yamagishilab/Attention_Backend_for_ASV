@@ -1,0 +1,16 @@
+dataset:
+  train_path: ../data/train
+  enroll_path: ../data/enroll_mean
+  eval_path: ../data/eval
+n_spks: 16
+n_utts: 5
+
+model:
+  d_model: 512 
+  head: 2
+  pooling: mha 
+
+lr: 0.01
+resume: None
+epochs: 40
+milestones: [20, 32]

@@ -42,7 +42,7 @@ It contains x-vectors extracted by the script of cnceleb example in Kaldi (train
 mkdir attention_backend_exp
 ```
 
-3. Download the data (x-vectors) from above link and put is in `attention_backend_exp` directory.
+3. Download the data (x-vectors) from above link and put it in `attention_backend_exp` directory.
 
 4. Clone this repo 
 

@@ -1,5 +1,5 @@
 # Attention_Backend_for_ASV
-Attention Backend for Aotumatic Speaker Verification with Multiple Enrollment Utterances
+Attention Backend for Automatic Speaker Verification with Multiple Enrollment Utterances
 
 It contains the official implementation of the paper [Attention Back-end for Automatic Speaker Verification with Multiple Enrollment Utterances](https://arxiv.org/abs/2104.01541)
 

@@ -84,11 +84,23 @@ This script will generate exp log directory in `exp` for each training process. 
 This study is supported by JST CREST Grants (JPMJCR18A6, JPMJCR20D3), MEXT KAKENHI Grants (16H06302, 18H04120, 18H04112, 18KT0051), Japan, and Google AI for Japan program.
 
 
-
 This project used some code snippets from following repo:
 
 - `dataset.py` implemented `BalancedBatchSampler` class from [siamese-triplet](https://github.com/adambielski/siamese-triplet). The corresponding license file is `siamese-triplet_license`.
 - `attention.py` implemented `AttentionAlphaComponent` class from [asv-subtools](https://github.com/Snowdar/asv-subtools). The corresponding license file is `asv-subtools_license`.
+
+## Citation
+
+```
+@inproceedings{zeng2022attention,
+  title={Attention back-end for automatic speaker verification with multiple enrollment utterances},
+  author={Zeng, Chang and Wang, Xin and Cooper, Erica and Miao, Xiaoxiao and Yamagishi, Junichi},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6717--6721},
+  year={2022},
+  organization={IEEE}
+}
+```
 
 ## License
 
